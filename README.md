@@ -1,7 +1,5 @@
 # InvestCloud Test
 
----
-
 A service exists that provides numerical data from a pair of two-dimensional datasets A and B. The
 contents and dimensions of A and B can be interpreted as two 2D square matrices, which when
 multiplied together produce a third matrix that is the desired result of this coding test.
